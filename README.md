@@ -2,8 +2,8 @@ Find the square color of a chess board
 
 ==================================================
 
-Example:
-Enter a Square (like a1, b2,....): b4
+Example:<br>
+Enter a Square (like a1, b2,....): b4<br>
 Black square
 
 ==================================================
